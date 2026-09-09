@@ -1,5 +1,11 @@
 # Daniel John Murray · The Empirical Architecture
 
+[![Current projects — experiments, evidence and open contributions](current-projects.svg)](https://empirical-observatory.madmanmuzza.chatgpt.site/projects)
+
+**[Enter the live Observatory](https://empirical-observatory.madmanmuzza.chatgpt.site) · [Projects on GitHub](https://github.com/thantiklermcirony/empirical-architecture/blob/main/CURRENT_PROJECTS.md)**
+
+Current contribution: two tested Graphiti repairs preserve separate memories and stable timestamps. [History PR #1867](https://github.com/getzep/graphiti/pull/1867) · [Timestamp PR #1866](https://github.com/getzep/graphiti/pull/1866). Submitted for review; not yet merged.
+
 ### A minimal architecture for science, life and intelligence
 
 We are building common mathematical and computational foundations for how science represents reality, discovers laws and turns knowledge into action.

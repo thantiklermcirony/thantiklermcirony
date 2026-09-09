@@ -4,7 +4,9 @@
 
 **[Enter the live Observatory](https://empirical-observatory.madmanmuzza.chatgpt.site) · [Projects on GitHub](https://github.com/thantiklermcirony/empirical-architecture/blob/main/CURRENT_PROJECTS.md)**
 
-Current contribution: two tested Graphiti repairs preserve separate memories and stable timestamps. [History PR #1867](https://github.com/getzep/graphiti/pull/1867) · [Timestamp PR #1866](https://github.com/getzep/graphiti/pull/1866). Submitted for review; not yet merged.
+**Latest contribution: [Pertpy biological prediction evaluator — PR #1098](https://github.com/scverse/pertpy/pull/1098).** Compare cellular predictions with training-only baselines and expose misleading scores. Tested with 84 evaluator cases on two Python versions and a 4,553-cell demonstration. [Results and reproduction](https://github.com/thantiklermcirony/empirical-observatory/blob/main/public/research/Pertpy_Evaluation_Report.md). Submitted for maintainer review; not merged.
+
+Our earlier Graphiti repairs preserve separate memories and stable timestamps: [history PR #1867](https://github.com/getzep/graphiti/pull/1867) · [timestamp PR #1866](https://github.com/getzep/graphiti/pull/1866). Next investigation: [NeuroGym’s decision cue](https://github.com/neurogym/neurogym/issues/279).
 
 ### A minimal architecture for science, life and intelligence
 

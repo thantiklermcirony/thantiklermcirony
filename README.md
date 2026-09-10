@@ -4,9 +4,9 @@
 
 **[Enter the live Observatory](https://empirical-observatory.madmanmuzza.chatgpt.site) · [Projects on GitHub](https://github.com/thantiklermcirony/empirical-architecture/blob/main/CURRENT_PROJECTS.md)**
 
-**Latest contribution: [Pertpy biological prediction evaluator — PR #1098](https://github.com/scverse/pertpy/pull/1098).** Compare cellular predictions with training-only baselines and expose misleading scores. Tested with 84 evaluator cases on two Python versions and a 4,553-cell demonstration. [Results and reproduction](https://github.com/thantiklermcirony/empirical-observatory/blob/main/public/research/Pertpy_Evaluation_Report.md). Submitted for maintainer review; not merged.
+**Latest contribution: [NeuroGym decision cue — PR #295](https://github.com/neurogym/neurogym/pull/295).** A task could require different answers after identical visible histories. Our proposed correction makes its intended action window observable. All 132 candidate-suite tests pass on the tested Windows/Python 3.12 runtime; 240 seeded trials preserve all other observation channels, targets and timings. [Results and reproduction](https://github.com/thantiklermcirony/empirical-observatory/blob/main/public/research/NeuroGym_Contribution_Report.md). Submitted for maintainer review; not merged.
 
-Our earlier Graphiti repairs preserve separate memories and stable timestamps: [history PR #1867](https://github.com/getzep/graphiti/pull/1867) · [timestamp PR #1866](https://github.com/getzep/graphiti/pull/1866). Next investigation: [NeuroGym’s decision cue](https://github.com/neurogym/neurogym/issues/279).
+Earlier contributions: [Pertpy biological evaluator](https://github.com/scverse/pertpy/pull/1098), [Graphiti history](https://github.com/getzep/graphiti/pull/1867) and [Graphiti timestamps](https://github.com/getzep/graphiti/pull/1866). All remain submitted for review. [Next three contribution investigations](https://github.com/thantiklermcirony/empirical-observatory/blob/main/public/research/Next_Big_Three.md).
 
 ### A minimal architecture for science, life and intelligence
 

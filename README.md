@@ -1,3 +1,22 @@
+<div align="center">
+
+<sub>THE EMPIRICAL ARCHITECTURE · DANIEL JOHN MURRAY</sub>
+
+# The universe leaves clues.
+
+*Some questions deserve a laboratory.*
+
+<img src="observatory-entrance.png" alt="A mysterious observatory at night: telescope, research files, an old computer and a waiting printer." width="1100" />
+
+[![Enter the Observatory](https://img.shields.io/badge/LABORATORY-ENTER_THE_OBSERVATORY-9bffad?style=for-the-badge&labelColor=102319)](https://empirical-observatory.madmanmuzza.chatgpt.site/)
+
+Explore the research files. Bring a question to the terminal. Collect your report.
+
+</div>
+
+<details>
+<summary><strong>Open the scientific record · programme, papers and reproducible work</strong></summary>
+
 # Daniel John Murray · The Empirical Architecture
 
 [![Current projects — experiments, evidence and open contributions](current-projects.svg)](https://empirical-observatory.madmanmuzza.chatgpt.site/projects)
@@ -29,3 +48,7 @@ The programme studies what makes a scientific description adequate: what it must
 The ambition is a revolution in scientific representation and discovery. Progress is established through precise mathematics, discriminating experiments, usable tools and independent reproduction.
 
 **Contribute a result:** reproduce an example, identify a counterexample, formalize a theorem, build a model adapter or propose a decisive experiment. [Contribution guide](https://github.com/thantiklermcirony/empirical-architecture/blob/main/CONTRIBUTING.md).
+
+
+</details>
+

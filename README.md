@@ -1,16 +1,10 @@
 <div align="center">
 
+<a href="https://empirical-observatory.madmanmuzza.chatgpt.site/"><img src="observatory-exterior.png" alt="Enter the Observatory — a warmly lit doorway beneath the dome. Click to arrive at the research desk." width="1100" /></a>
+
+*Step inside. Your desk is waiting.*
+
 <sub>THE EMPIRICAL ARCHITECTURE · DANIEL JOHN MURRAY</sub>
-
-# The universe leaves clues.
-
-*Some questions deserve a laboratory.*
-
-[![Enter the Observatory](https://img.shields.io/badge/LABORATORY-ENTER_THE_OBSERVATORY-9bffad?style=for-the-badge&labelColor=102319)](https://empirical-observatory.madmanmuzza.chatgpt.site/)
-
-<a href="https://empirical-observatory.madmanmuzza.chatgpt.site/"><img src="observatory-entrance.png" alt="A mysterious observatory at night: telescope, research files, an old computer and a waiting printer." width="1100" /></a>
-
-Explore the research files. Bring a question to the terminal. Collect your report.
 
 </div>
 

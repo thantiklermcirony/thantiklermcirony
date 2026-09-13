@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://boundedness-atlas.madmanmuzza.chatgpt.site"><img src="https://boundedness-atlas.madmanmuzza.chatgpt.site/assets/entrance.jpg" alt="Enter the Boundedness Atlas — a botanical expedition through limits, memory and living systems" width="1100" /></a>
+<a href="https://boundedness-atlas.madmanmuzza.chatgpt.site"><img src="boundedness-atlas-entrance.jpg" alt="Enter the Boundedness Atlas — a botanical expedition through limits, memory and living systems" width="1100" /></a>
 
 # [Enter the Boundedness Atlas →](https://boundedness-atlas.madmanmuzza.chatgpt.site)
 

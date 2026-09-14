@@ -1,26 +1,24 @@
 <div align="center">
 
-<a href="https://boundedness-atlas.madmanmuzza.chatgpt.site"><img src="boundedness-atlas-entrance.jpg" alt="Enter the Boundedness Atlas — a botanical expedition through limits, memory and living systems" width="1100" /></a>
+<a href="https://github.com/thantiklermcirony/boundedness-atlas/blob/main/HONESTY.md"><img src="https://raw.githubusercontent.com/thantiklermcirony/boundedness-atlas/main/observer-world-loop.svg?v=2026-09-14-r2" alt="The observer in the world: physical system, signals, record, estimated state, future, action and feedback. Fifteen relationships lead to sources, conditions and failure tests in the Honesty page." width="1600" /></a>
 
-# The observer is part of the world.
+### [Honesty — inspect every relationship](https://github.com/thantiklermcirony/boundedness-atlas/blob/main/HONESTY.md)
+
+[Full-size diagram](https://github.com/thantiklermcirony/boundedness-atlas/blob/main/observer-world-loop.svg) · [Enter the Atlas](https://boundedness-atlas.madmanmuzza.chatgpt.site) · [Programme direction](https://github.com/thantiklermcirony/boundedness-atlas/blob/main/PROGRAMME_DIRECTION.md)
 
 **Daniel John Murray · The Murray Research Programme**
 
-*How does a finite, changing part of the world learn to understand it—and act within it?*
-
-## [Enter the Boundedness Atlas →](https://boundedness-atlas.madmanmuzza.chatgpt.site)
-
-[Current direction](https://github.com/thantiklermcirony/boundedness-atlas/blob/main/PROGRAMME_DIRECTION.md) · [Connected contributions](https://boundedness-atlas.madmanmuzza.chatgpt.site/discoveries/) · [Falsifiable predictions](https://boundedness-atlas.madmanmuzza.chatgpt.site/predictions/) · [41 manuscripts](https://boundedness-atlas.madmanmuzza.chatgpt.site/papers/)
-
 </div>
 
-The programme connects boundedness, observation, memory, temporal order, biological resources and viable action. Its aim is an evolving, testable account of the observer in the world: what a system can sense, which distinctions it must retain, what it can predict, and how its actions change its future.
+The observer is part of the world it is trying to understand. This programme connects boundedness, observation, retained state, temporal order, biological resources and viable action into an evolving, testable account of that relationship.
 
-**Current focus · an adaptive observer–environment loop.** We are connecting existing research instruments so a model can test whether its present description is sufficient, choose a useful observation or intervention, and retain a more detailed state only when it earns its cost. Biology is the first proving ground. The next research question is: **when two systems look identical now, which intervention reveals the hidden difference?**
+**Three questions organise the current work:** can we distinguish the states; does that distinction change a future prediction; and can an available action improve the outcome enough to matter? More information can improve an explanation while leaving very little practical control. The loop must test all three.
 
-The Atlas presents the published manuscripts by connected ideas. GitHub preserves public code and reviewed records. Active research is run locally; a continuously autonomous discovery service is a development objective. Private investigations remain unpublished until selected for release.
+The diagram is the programme's centrepiece. Its [shared relationship ledger](https://github.com/thantiklermcirony/boundedness-atlas/blob/main/observer-map.json) generates the image and Honesty page together. New biology results earn revisions through their actual assumptions, evidence and consequences. Sources and limits are part of every connection. A versioned picture is not a proof of a theory of everything.
 
-Mathematical implications, numerical checks, empirical observations and hypotheses carry separate evidence labels. The programme grows through tested revisions, including failed predictions and simpler explanations. [Read the programme map and current status](https://github.com/thantiklermcirony/boundedness-atlas/blob/main/PROGRAMME_DIRECTION.md).
+**Current status:** a local finite-model observer now performs noisy sensing, joint state/calibration inference, prediction and costed action. Biological self-maintenance and subjective experience remain further scientific questions. Public diagrams distinguish a mathematical implication, model calculation, empirical finding and hypothesis. The private research engine is not a continuously autonomous public service.
+
+[Connected contributions](https://boundedness-atlas.madmanmuzza.chatgpt.site/discoveries/) · [Falsifiable predictions](https://boundedness-atlas.madmanmuzza.chatgpt.site/predictions/) · [41 manuscript records](https://boundedness-atlas.madmanmuzza.chatgpt.site/papers/)
 
 <details>
 <summary><strong>Repositories, instruments and preserved contributions</strong></summary>
@@ -35,5 +33,13 @@ The earlier Observatory website is owner-only while the public Atlas and private
 
 </details>
 
-<sub>Direction updated 14 September 2026. Imagined botanical artwork generated with AI; illustration is not scientific evidence.</sub>
+<details>
+<summary>Explore the illustrated Atlas entrance</summary>
 
+<a href="https://boundedness-atlas.madmanmuzza.chatgpt.site"><img src="boundedness-atlas-entrance.jpg" alt="The illustrated botanical entrance to the Boundedness Atlas" width="1100" /></a>
+
+The botanical artwork is an imagined illustration generated with AI; it is not scientific evidence.
+
+</details>
+
+<sub>Map version 2026-09-14-r2. The scientific diagram is generated from a versioned relationship ledger. Public sources and their limits are linked in Honesty.</sub>

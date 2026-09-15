@@ -12,7 +12,7 @@
 
 </div>
 
-The Observatory presents the programme's publications, working instruments and research results across eleven laboratory rooms. Each exhibit connects a question to its assumptions, evidence and next test. Mathematical results, illustrative simulations, measured observations and untested predictions remain distinct.
+The Observatory presents the programme's publications, working instruments and research results across connected laboratory rooms. Each exhibit connects a question to its assumptions, evidence and next test. Mathematical results, illustrative simulations, measured observations and untested predictions remain distinct.
 
 **Access:** GitHub source and downloads are public. The hosted Observatory currently requires owner access.
 

@@ -1,57 +1,53 @@
 <div align="center">
 
-<a href="https://boundedness-atlas.madmanmuzza.chatgpt.site"><img src="boundedness-atlas-entrance.jpg" alt="Enter the Boundedness Atlas — a botanical expedition through limits, memory and living systems" width="1100" /></a>
+# Empirical Architecture Observatory
 
-# The observer is part of the world.
+**Daniel John Murray · Research into bounded systems, observation and adaptation**
 
-**Daniel John Murray · The Murray Research Programme**
+<a href="https://empirical-observatory.madmanmuzza.chatgpt.site/"><img src="observatory-entrance.png" alt="Enter the Empirical Architecture Observatory" width="1100" /></a>
 
-*How does a finite, changing part of the world learn to understand it—and act within it?*
+### [Enter the Observatory →](https://empirical-observatory.madmanmuzza.chatgpt.site/)
 
-## [Enter the Boundedness Atlas →](https://boundedness-atlas.madmanmuzza.chatgpt.site)
-
-[Current direction](https://github.com/thantiklermcirony/boundedness-atlas/blob/main/PROGRAMME_DIRECTION.md) · [Connected contributions](https://boundedness-atlas.madmanmuzza.chatgpt.site/discoveries/) · [Falsifiable predictions](https://boundedness-atlas.madmanmuzza.chatgpt.site/predictions/) · [41 manuscripts](https://boundedness-atlas.madmanmuzza.chatgpt.site/papers/)
+**[Cancer Lab — the recovery boundary](https://empirical-observatory.madmanmuzza.chatgpt.site/cancer)** · [Microplastics experiment](https://empirical-observatory.madmanmuzza.chatgpt.site/microplastics) · [All laboratories](https://empirical-observatory.madmanmuzza.chatgpt.site/#laboratories)
 
 </div>
 
-The programme connects boundedness, observation, memory, temporal order, biological resources and viable action. Its aim is an evolving, testable account of the observer in the world: what a system can sense, which distinctions it must retain, what it can predict, and how its actions change its future.
+The Observatory presents the programme's publications, working instruments and research results across eleven laboratory rooms. Each exhibit connects a question to its assumptions, evidence and next test. Mathematical results, illustrative simulations, measured observations and untested predictions remain distinct.
 
-**What can you explore here?** Follow the papers by connected ideas, inspect their predictions, or enter the observer exhibit to see how measurement, memory, belief and physical action fit together. Biology is where we are testing whether those connections become useful.
+**Access:** GitHub source and downloads are public. The hosted Observatory currently requires owner access.
 
-<table><tr><td width="50%">
+## Featured project: Cancer Lab
 
-<a href="https://github.com/thantiklermcirony/boundedness-atlas/blob/main/OBSERVER_LENS.md"><img src="https://raw.githubusercontent.com/thantiklermcirony/boundedness-atlas/main/observer-lens.jpg?v=lens1" alt="Open the evolving observer loop — a three-dimensional glass exhibit of world, measurement, memory, belief and action" width="480" /></a>
+**When does a stressed cancer cell lose the ability to recover?**
 
-</td><td width="50%">
+Explore the programme's glutathione, redox and finite-rescue-window papers. Change stress and rescue timing in a working mathematical model; inspect published measurements beside it; follow an experiment designed to test durable recovery and normal-tissue selectivity.
 
-### [Through the observer’s lens →](https://github.com/thantiklermcirony/boundedness-atlas/blob/main/OBSERVER_LENS.md)
+The model is a hypothesis instrument. It does not establish a cancer treatment or clinical efficacy. The exhibit includes evidence that limits the proposed approach, including immune effects.
 
-**The programme’s evolving synthesis.**
+[Open the Cancer Lab](https://empirical-observatory.madmanmuzza.chatgpt.site/cancer) · [Source and reproduction](https://github.com/thantiklermcirony/empirical-observatory/blob/main/CANCER_LAB.md)
 
-How does the same world become different views? Follow the image into the mathematics of bounded belief, physical reflection, memory and action.
+## Published foundations
 
-[Open the visual exhibit](https://github.com/thantiklermcirony/boundedness-atlas/blob/main/OBSERVER_LENS.md) · [Technical loop](https://github.com/thantiklermcirony/boundedness-atlas/blob/main/observer-world-loop.svg) · [Honesty](https://github.com/thantiklermcirony/boundedness-atlas/blob/main/HONESTY.md)
+- [Hormesis as a Geometric Necessity of Bounded Adaptive Systems](https://doi.org/10.1177/15593258261469171) — Dose-Response, 2026. A conditional adaptive-response model.
+- [A dynamical model of glutathione homeostasis in G6PD deficiency and NRF2-activated non-small cell lung cancer](https://doi.org/10.1016/j.rbc.2026.100084) — Redox Biochemistry and Chemistry, 2026. Calibrated and prospective claims have different evidential status.
 
-</td></tr></table>
+The wider corpus connects boundedness, predictive state, temporal order, biological resources, UHL and IDA. Its 41 manuscript records include historical versions; they are not 41 independently established discoveries.
 
+## Results you can inspect
 
-The Atlas presents the published manuscripts by connected ideas. GitHub preserves public code and reviewed records. Active research is run locally; a continuously autonomous discovery service is a development objective. Private investigations remain unpublished until selected for release.
-
-Mathematical implications, numerical checks, empirical observations and hypotheses carry separate evidence labels. The programme grows through tested revisions, including failed predictions and simpler explanations. [Read the programme map and current status](https://github.com/thantiklermcirony/boundedness-atlas/blob/main/PROGRAMME_DIRECTION.md).
+- **Microplastics:** exploratory comparison on 360 published metabolic-assay values. The bounded adaptive variant improved held-out-dose error against the tested simple baselines under declared assumptions. Hormesis and redox mechanisms remain unresolved. [Experiment and source record](https://empirical-observatory.madmanmuzza.chatgpt.site/microplastics).
+- **Recovery and Virtual Cell:** completed experiments retain their failed success gates. Negative results guide the next test rather than disappearing from the record. [Projects](https://empirical-observatory.madmanmuzza.chatgpt.site/projects).
+- **Mathematics, control, quantum measurement and IDA:** working instruments with explicit model and measurement boundaries. [Laboratories](https://empirical-observatory.madmanmuzza.chatgpt.site/#laboratories).
 
 <details>
-<summary><strong>Repositories, instruments and preserved contributions</strong></summary>
+<summary><strong>Programme archives and contributions</strong></summary>
 
-- [Boundedness Atlas — public synthesis and current direction](https://github.com/thantiklermcirony/boundedness-atlas)
+- [Empirical Observatory — laboratory software and research records](https://github.com/thantiklermcirony/empirical-observatory)
 - [Empirical Architecture — manuscripts and mathematical foundations](https://github.com/thantiklermcirony/empirical-architecture)
-- [Empirical Observatory — preserved laboratory software and experiment history](https://github.com/thantiklermcirony/empirical-observatory)
-- [IDA / StateAtlas — experimental observation instrument](https://github.com/thantiklermcirony/ida-stateatlas)
-- Contribution records: [Ray Serve](https://github.com/ray-project/ray/pull/66039), [NeuroGym](https://github.com/neurogym/neurogym/pull/295), [Pertpy](https://github.com/scverse/pertpy/pull/1098), [Graphiti history](https://github.com/getzep/graphiti/pull/1867), [Graphiti timestamps](https://github.com/getzep/graphiti/pull/1866).
-
-The earlier Observatory website is owner-only while the public Atlas and private research develop. Its repositories and evidence remain preserved. Individual contribution links retain their own current review status.
+- [Boundedness Atlas — connected paper and observer exhibits](https://boundedness-atlas.madmanmuzza.chatgpt.site)
+- [IDA / StateAtlas](https://github.com/thantiklermcirony/ida-stateatlas)
+- Contribution records: [Ray Serve](https://github.com/ray-project/ray/pull/66039), [NeuroGym](https://github.com/neurogym/neurogym/pull/295), [Pertpy](https://github.com/scverse/pertpy/pull/1098), [Graphiti history](https://github.com/getzep/graphiti/pull/1867), [Graphiti timestamps](https://github.com/getzep/graphiti/pull/1866). Each link retains its own current review status.
 
 </details>
 
-<sub>Programme entrance and observer exhibit updated 14 September 2026. Imagined botanical artwork generated with AI; illustration is not scientific evidence.</sub>
-
-
+<sub>Updated 15 September 2026. The programme advances through reproducible tests, corrections and clearly scoped claims. Observatory entrance artwork is illustrative.</sub>

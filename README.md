@@ -8,6 +8,8 @@
 
 ### [Enter The Bounded Observer →](https://thantiklermcirony.github.io/bounded-observer/)
 
+**[Play Inside — a constructed observer world →](https://thantiklermcirony.github.io/bounded-observer/inside.html)**
+
 [Explore the six gates](https://thantiklermcirony.github.io/bounded-observer/) · [Evidence atlas](https://thantiklermcirony.github.io/bounded-observer/evidence.html) · [Research library](https://thantiklermcirony.github.io/bounded-observer/library.html) · [Laboratories](https://thantiklermcirony.github.io/bounded-observer/labs.html) · [Source](https://github.com/thantiklermcirony/bounded-observer)
 
 </div>
@@ -24,6 +26,7 @@ The central composition result is conditional: continuous, associative, strictly
 
 | Start here | What you can inspect |
 |---|---|
+| [Inside experience](https://thantiklermcirony.github.io/bounded-observer/inside.html) | Move, look and zoom in a constructed world; test what a single reading loses, chase a chart horizon and carry a compass around a loop. |
 | [Interactive site](https://thantiklermcirony.github.io/bounded-observer/) | Six gates and twelve demonstrations with their mathematical or empirical status shown. |
 | [Evidence atlas](https://thantiklermcirony.github.io/bounded-observer/evidence.html) | Claim status, scope, sources, limitations and next tests. |
 | [Research library](https://thantiklermcirony.github.io/bounded-observer/library.html) | The earlier 41-record manuscript inventory and prediction ledger, mapped into the six gates with dated source receipts. |

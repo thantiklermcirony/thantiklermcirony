@@ -12,6 +12,12 @@
 
 </div>
 
+## The Bounded Observer
+
+**Science from within.** [Explore the public website](https://thantiklermcirony.github.io/bounded-observer/) · [Read the source and test results](https://github.com/thantiklermcirony/bounded-observer)
+
+This release walks through six gates linking bounded systems, observation and action. Its interactive models, research atlas and reproducible checks keep mathematical demonstrations separate from empirical findings and open predictions.
+
 ## What does a measurement leave out?
 
 Two systems can give the same reading and respond differently to the next challenge. The programme studies which histories, resources and mechanisms must be retained to predict that difference—and when learning it can still change a useful action.
@@ -24,6 +30,7 @@ Its wider ambition is a connected scientific account of systems and observers ac
 
 | Work | What is available | What it establishes |
 |---|---|---|
+| **The Bounded Observer** | [Six-gate website](https://thantiklermcirony.github.io/bounded-observer/) · [Source, atlas and checks](https://github.com/thantiklermcirony/bounded-observer) | A connected, testable presentation of the programme; simulations demonstrate the stated models, while empirical claims retain their own evidence status. |
 | **Published biological models** | [Hormesis, Dose-Response](https://doi.org/10.1177/15593258261469171) · [Glutathione homeostasis, Redox Biochemistry and Chemistry](https://doi.org/10.1016/j.rbc.2026.100084) | Model-specific results. The redox paper distinguishes kinetic calibration from a prospective cancer prediction. |
 | **Mathematical foundations** | [Theory atlas, proofs and executable certificates](https://github.com/thantiklermcirony/empirical-architecture/tree/main/research/theory-atlas-v0.1) | Conditional composition, state, resource and action results, with counterexamples and corrections. |
 | **Recovery Lab** | [Frozen experiment and reproduction](https://github.com/thantiklermcirony/empirical-observatory/tree/main/research/recovery-lab) | A comparison using 214 older female mice; follow-up coverage and the added-history improvement missed the declared gates. |
